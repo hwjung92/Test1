@@ -15,19 +15,8 @@ feature2 changed 2
 
 feature2 changed 3 
 
-<<<<<<< HEAD
 
 
-
-
-feature2 changed 4 
-
-
-
-feature2 changed 5 
-
-
-fxbxcvd
-=======
 feature2 changed 4
->>>>>>> hard reset
+
+
